@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNBluetoothInfo
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/bitfly-dev/react-native-bluetooth-info"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }

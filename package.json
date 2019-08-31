@@ -1,7 +1,7 @@
 {
-  "name": "react-native-bluetooth-info",
+  "name": "@bitfly/react-native-bluetooth-info",
   "version": "1.0.3",
-  "description": "",
+  "description": "React Native native module for checking Bluetooth state with event listener. Supports both iOS and android.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
