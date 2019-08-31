@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author             = { "author" => "author@domain.cn" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/author/RNBluetoothInfo.git", :tag => "master" }
-  s.source_files  = "RNBluetoothInfo/**/*.{h,m}"
+  s.source_files  = "ios/RNBluetoothInfo/**/*.{h,m}"
   s.requires_arc = true
 
 
