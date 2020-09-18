@@ -1,7 +1,7 @@
 
 package com.reactlibrary;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.app.Activity;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
